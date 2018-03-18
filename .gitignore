@@ -19,3 +19,9 @@
 
 
 # End of https://www.gitignore.io/api/go
+
+# Project Custom #
+.idea/
+blogsucks
+*.db
+vendor/
